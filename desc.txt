@@ -1,0 +1,22 @@
+
+Features
+    -authentication
+    -mini text editor 
+    -search
+    -acitions (create, edit, update, delete blogpost)
+    -categories (life, tech, tools, project-updates)
+    -multi-media support 
+    -comments with replies 
+    -bookmark posts 
+    -share posts 
+    -dark/light mode 
+    -posts metadata (title, views, date created, duration, likes)
+    -code snippets 
+
+
+Tech stack {
+    node, postgresql, express 
+    react, next, typescript
+    cloudinary
+}
+
