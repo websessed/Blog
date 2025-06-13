@@ -9,3 +9,8 @@ version 1:
     -code snippets 
     
 
+
+Tech Stack {
+    Mdx, Next, LocalStorage
+    Mongo
+}
