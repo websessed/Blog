@@ -12,5 +12,6 @@ version 1:
 
 Tech Stack {
     Mdx, Next, LocalStorage
-    Mongo
+    Upstash Redis
+    Fuse 
 }
